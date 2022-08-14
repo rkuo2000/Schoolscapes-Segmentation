@@ -1,1 +1,1 @@
-# Schoolscape-Segmentation
+# Schoolscapes Segmentation
